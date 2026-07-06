@@ -32,7 +32,7 @@ sidebar_class_name: hidden
 
 - [Galaxy M34 5G / Galaxy F34 (m34x)](/devices/m34x)
 - [Galaxy A52 4G (a52q)](/devices/a52q)
-- [Galaxy A72 4G (a72q)](/devices/a72q)
+- [Galaxy A72 (a72q)](/devices/a72q)
 - [Galaxy S20 FE 5G (r8q)](/devices/r8q)
 - [Galaxy S20 FE 4G (r8s)](/devices/r8s)
 
