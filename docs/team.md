@@ -1,5 +1,6 @@
 ---
 slug: /team
+sidebar_position: 2
 pagination_next: null
 pagination_prev: null
 title: "Our Team"
